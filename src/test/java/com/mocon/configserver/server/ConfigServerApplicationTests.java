@@ -1,4 +1,4 @@
-package com.mocon.configserver.ConfigServer;
+package com.mocon.configserver.server;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
