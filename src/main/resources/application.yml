@@ -1,6 +1,12 @@
 ---
 server:
   port: 8888
+security:
+  basic:
+    enabled: true
+  user:
+    name: mocon
+    password: mocon
 spring:
   cloud:
     config:
